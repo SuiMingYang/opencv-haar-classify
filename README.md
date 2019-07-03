@@ -59,3 +59,13 @@ mac ox操作系统
 
 参考文章：
 [https://blog.csdn.net/txiaomiao/article/details/64132273](https://blog.csdn.net/txiaomiao/article/details/64132273)(windows版本)
+
+----
+
+Author: suimingyang 
+
+Email : suimingyang123@gmail.com
+
+Blog  : [https://suimingyang.github.io/](https://suimingyang.github.io/)
+
+----
