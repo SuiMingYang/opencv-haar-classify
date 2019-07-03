@@ -1,0 +1,15 @@
+pos/1.jpg 1 0 0 60 60
+pos/2.jpg 1 0 0 60 60
+pos/3.jpg 1 0 0 60 60
+pos/4.jpg 1 0 0 60 60
+pos/5.jpg 1 0 0 60 60
+pos/6.jpg 1 0 0 60 60
+pos/7.jpg 1 0 0 60 60
+pos/8.jpg 1 0 0 60 60
+pos/9.jpg 1 0 0 60 60
+pos/10.jpg 1 0 0 60 60
+pos/11.jpg 1 0 0 60 60
+pos/12.jpg 1 0 0 60 60
+pos/13.jpg 1 0 0 60 60
+pos/14.jpg 1 0 0 60 60
+pos/15.jpg 1 0 0 60 60
